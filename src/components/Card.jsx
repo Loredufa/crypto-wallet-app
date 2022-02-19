@@ -17,7 +17,7 @@ return (
         <div>
         <h3>{name}</h3>
         <h5>{symbol}</h5>
-        <h5>Price: EUR {price.toFixed(2)}</h5>
+        <h5>Price: {price.toFixed(2)}</h5>
         <button className="botton" onClick={handleFavorite}>
             {favorite.includes (name)?
             <img src={require("../assets/heart-red.png")} alt="img not found" width="50px" height="50px"/>
