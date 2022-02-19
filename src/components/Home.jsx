@@ -61,6 +61,7 @@ return (
 const Select = styled.select`
 font-family: 'Source Sans Pro', sans-serif;
 background-color: #2a6f97;
+cursor: pointer;
 height: 50px;
 width:15vw;
 font-size: 20px;
@@ -71,6 +72,7 @@ border-radius:10px;
 const Button = styled.button`
 font-family: 'Source Sans Pro', sans-serif;
 background-color: #2a6f97;
+cursor: pointer;
 height: 50px;
 width:15vw;
 font-size: 35px;
