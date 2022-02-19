@@ -1,0 +1,11 @@
+.home {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-left: 40px;
+ 
+  }
+.select {
+    display: flex;
+    margin: 20px;
+  }
+  

@@ -1,0 +1,25 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    width:18vw;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #2a6f97;
+    box-shadow: 0 15px 30px 1px rgba(58, 57, 57, 0.31);
+
+}
+
+.photo {
+    margin: 20px;
+    margin-top: 40px;
+}
+
+.botton {
+    background-color: #2a6f97;
+    border: 0ch;
+
+}
+
